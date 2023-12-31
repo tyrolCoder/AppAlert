@@ -4,6 +4,9 @@
     "bundleId": "com.theseissl.TaekwondoClubMaster",
     "title": "App Alert",
     "text": "Warning: There's a bug in the application - I'm aware and already working on it...",
-    "confirmLabel": "OK"
+    "confirmLabel": "OK",
+    "osVersion": ["17.0.1","17.1","17.2","17.3"],
+    "appVersion": ["1.0"],
+    "link": "http://www.theseissl.com"
   }
 ]
