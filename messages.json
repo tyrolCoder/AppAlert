@@ -1,6 +1,6 @@
 [
   {
-    "id" : 4,
+    "id": 4,
     "bundleId": "com.theseissl.TaekwondoClubMaster",
     "title": "App Alert",
     "text": "Warning: There's a bug in the application - I'm aware and already working on it...",
@@ -10,6 +10,7 @@
     "link": {
       "title": "More information",
       "url": "http://www.theseissl.com"
-    }
+    },
+    "active": 1
   }
 ]
