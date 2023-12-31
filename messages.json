@@ -1,0 +1,9 @@
+[
+  {
+    "id" : 1,
+    "bundleId": "com.theseissl.TaekwondoClubMasterTests",
+    "title": "App Alert",
+    "text": "Warning: There's a bug in the application - I'm aware and already working on it...",
+    "confirmLabel": "OK"
+  }
+]
