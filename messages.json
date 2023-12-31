@@ -16,7 +16,7 @@
    {
     "id": 5,
     "bundleId": "com.theseissl.TaekwondoClubMaster",
-    "title": "App Alert #5",
+    "title": "App Alert #8",
     "text": "Warning: There's a bug in the application - I'm aware and already working on it...",
     "confirmLabel": "OK",
     "osVersion": ["17.0.1","17.1","17.2","17.3"],
@@ -30,7 +30,7 @@
    {
     "id": 6,
     "bundleId": "com.theseissl.TaekwondoClubMaster",
-    "title": "App Alert #6",
+    "title": "App Alert #7",
     "text": "Warning: There's a bug in the application - I'm aware and already working on it...",
     "confirmLabel": "OK",
     "osVersion": ["17.0.1","17.1","17.2","17.3"],
