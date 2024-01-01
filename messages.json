@@ -16,7 +16,7 @@
    {
     "id": 5,
     "bundleId": "131d1d45-4d76-4a3a-9fe6-713ba6c9a751",
-    "title": "App Alert #8",
+    "title": "App Alert #5",
     "text": "Warning: There's a bug in the application - I'm aware and already working on it...",
     "confirmLabel": "OK",
     "osVersion": ["17.0.1","17.1","17.2","17.3"],
@@ -30,7 +30,7 @@
    {
     "id": 6,
     "bundleId": "131d1d45-4d76-4a3a-9fe6-713ba6c9a751",
-    "title": "App Alert #7",
+    "title": "App Alert #6",
     "text": "Warning: There's a bug in the application - I'm aware and already working on it...",
     "confirmLabel": "OK",
     "osVersion": ["17.0.1","17.1","17.2","17.3"],
