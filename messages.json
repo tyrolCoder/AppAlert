@@ -1,7 +1,7 @@
 [
   {
     "id": 4,
-    "bundleId": "com.theseissl.TaekwondoClubMaster",
+    "bundleId": "131d1d45-4d76-4a3a-9fe6-713ba6c9a751",
     "title": "App Alert #4",
     "text": "Warning: There's a bug in the application - I'm aware and already working on it...",
     "confirmLabel": "OK",
@@ -15,7 +15,7 @@
   },
    {
     "id": 5,
-    "bundleId": "com.theseissl.TaekwondoClubMaster",
+    "bundleId": "131d1d45-4d76-4a3a-9fe6-713ba6c9a751",
     "title": "App Alert #8",
     "text": "Warning: There's a bug in the application - I'm aware and already working on it...",
     "confirmLabel": "OK",
@@ -29,7 +29,7 @@
   },
    {
     "id": 6,
-    "bundleId": "com.theseissl.TaekwondoClubMaster",
+    "bundleId": "131d1d45-4d76-4a3a-9fe6-713ba6c9a751",
     "title": "App Alert #7",
     "text": "Warning: There's a bug in the application - I'm aware and already working on it...",
     "confirmLabel": "OK",
