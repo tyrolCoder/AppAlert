@@ -6,7 +6,7 @@
     "text": "Folgende Fehler wurden bereits identifiziert: PLZ & Ort mit Default-Wert belegt; Staatsbürgerschaft fehlt. Die Punkte sind bereits korrigiert und werden mit dem nächsten BUILD ausgerollt.",
     "confirmLabel": "Have fun!",
     "osVersion": ["17.0.1","17.1","17.2","17.3"],
-    "appVersion": ["1.0"],
+    "appVersion": ["0.1.0"],
     "link": {
       "title": "More information",
       "url": "http://www.theseissl.com"
